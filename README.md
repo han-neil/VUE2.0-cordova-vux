@@ -1,21 +1,16 @@
-# y
-
-> y
-
-## Build Setup
+## 提示
 
 ``` bash
-# install dependencies
-npm install
+# 需要自己安装好node  vue cordova 运行环境
 
-# serve with hot reload at localhost:8080
-npm run dev
+# 整合了vue cordova vux 开发非常方便
 
-# build for production with minification
-npm run build
+# 自定义了一个命令
+npm run android 
+``` 就可以编译并运行在手机上
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# 邮箱
+hanyingbo@foxmail.com
+
+
